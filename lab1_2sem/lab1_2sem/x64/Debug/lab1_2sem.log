@@ -1,0 +1,26 @@
+﻿  Source.cpp
+C:\Users\deemonch\guap\inf\lr_2sem\lab1_2sem\lab1_2sem\Source.cpp(13,72): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\deemonch\guap\inf\lr_2sem\lab1_2sem\lab1_2sem\Source.cpp(20,62): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\deemonch\guap\inf\lr_2sem\lab1_2sem\lab1_2sem\Source.cpp(21,63): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\deemonch\guap\inf\lr_2sem\lab1_2sem\lab1_2sem\Source.cpp(51,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\deemonch\guap\inf\lr_2sem\lab1_2sem\lab1_2sem\Source.cpp(96,62): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\deemonch\guap\inf\lr_2sem\lab1_2sem\lab1_2sem\Source.cpp(101,60): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\deemonch\guap\inf\lr_2sem\lab1_2sem\lab1_2sem\Source.cpp(121,61): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\deemonch\guap\inf\lr_2sem\lab1_2sem\lab1_2sem\Source.cpp(126,59): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+  lab1_2sem.vcxproj -> C:\Users\deemonch\guap\inf\lr_2sem\lab1_2sem\lab1_2sem\x64\Debug\lab1_2sem.exe
